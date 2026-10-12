@@ -311,17 +311,4 @@ The backend uses the following environment variables (defined in `mobilebackend/
 
 ---
 
-## 👥 Team Members
 
-| Name | ID | Role |
-| :--- | :--- | :--- |
-| **Hanna Nigussie** | `UGR-9180-14` | Full Stack Developer / Mobile Riverpod |
-| **Oliyad Mulugeta** | `UGR-0055-14` | Full Stack Developer |
-| **Shalom Habtamu** | `UGR-6901-14` | Full Stack Developer |
-| **Tsion Melese** | `UGR-1255-14` | Full Stack Developer |
-
----
-
-## 📄 License
-
-This project was developed for educational and professional demonstration purposes. All rights reserved by the project team.
